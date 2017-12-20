@@ -1,0 +1,2 @@
+set(random_gen_MESSAGE_FILES "/home/abhishek/catkin_ws/src/beginner_tutorials/msg/number.msg")
+set(random_gen_SERVICE_FILES "")
